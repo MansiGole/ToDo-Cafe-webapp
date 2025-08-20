@@ -1,0 +1,20 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual envs
+venv/
+.env/
+.env*/ 
+
+# Flask instance / secrets
+instance/
+*.sqlite3
+*.db
+
+# VS Code / system
+.vscode/
+.DS_Store
+Thumbs.db
