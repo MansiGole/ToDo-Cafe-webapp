@@ -64,14 +64,6 @@ Now open **http://127.0.0.1:5000/** in your browser 🚀
 
 ---
 
-## 🎯 Future Improvements  
-- Add user authentication (login/signup)  
-- Store tasks in a real database (SQLite/PostgreSQL)  
-- Support for categories & due dates  
-- Mobile-responsive design  
-
----
-
 ## 🤝 Contributing  
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.  
 
