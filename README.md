@@ -23,9 +23,9 @@ Think of it as your personal coffee break companion — add, manage, and complet
 
 🛠️ Tech Stack
 
-Backend: Flask (Python)
-Frontend: HTML, CSS (Jinja2 templates)
-Database: JSON file storage
+-Backend: Flask (Python)
+-Frontend: HTML, CSS (Jinja2 templates)
+-Database: JSON file storage
 
 ---
 
