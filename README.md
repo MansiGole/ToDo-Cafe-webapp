@@ -23,14 +23,14 @@ Think of it as your personal coffee break companion — add, manage, and complet
 
 ## 📂 Project Structure  
 
-bash
+```bash
 ToDo-Cafe-webapp/
 │── static/css/        # Stylesheets for the app
 │── templates/         # HTML templates (Flask Jinja2)
 │── app.py             # Main Flask application
 │── todos.json         # Stores all tasks
 │── requirements.txt   # Project dependencies
-│── .gitignore         # Git ignore rules
+│── .gitignore         # Git ignore rules'''
 
 ---
 
